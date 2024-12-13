@@ -14,11 +14,11 @@ taxonomies = [
     { name = "tags", feed = true},
 ]
 
-title = "reykitty.me"
+title = "Rey's Home Page"
 
 generate_feeds = true
 
-author = "Rey T"
+author = "reykitty"
 
 [markdown]
 # Whether to do syntax highlighting
