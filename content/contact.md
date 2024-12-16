@@ -7,5 +7,5 @@ Here's a few ways to reach me online.
 
 * Discord: reykitty
 * Telegram: @ReyKitty
-* Fediverse/Mastodon: @rey@toot.cat
+* Fediverse/Mastodon: <a href="https://toot.cat/@rey">@rey@toot.cat</a>
 * E-mail: web@reykitty.me
