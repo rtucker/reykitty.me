@@ -14,7 +14,7 @@ taxonomies = [
     { name = "tags", feed = true},
 ]
 
-title = "Rey's Home Page"
+title = "reykitty.me"
 
 generate_feeds = true
 
