@@ -8,7 +8,7 @@ date = "2024-12-16"
 
 ---
 
-**I'm going to a solstice party this weekend**, which is exciting and a little bit scary. It's out in the *Middle of Nowhere* so we'll be there overnight. Fortunately, I will have this very page to use as a reference when asked what I've been up to lately. Don't worry, though! Nigel will be auto-fed by the auto-feeder.
+**I'm going to a solstice party this weekend**, which is exciting and a little bit intimidating (first overnight trip in a few years). It's out in the *Middle of Nowhere* so we'll be there overnight. Fortunately, I will have this very page to use as a reference when asked what I've been up to lately. Don't worry, though! Nigel will be auto-fed by the auto-feeder.
 
 **I'm working on this web site**. I've been inspired by hanging out with a small group of local furries in the basement of the library, working on web site stuff. It was really good to see folks working on their own web sites. I worked on [gender.solutions](https://gender.solutions/), my 2018-era shitpost. It hadn't been rebuilt in more than six years. That was fun.
 
