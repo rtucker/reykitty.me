@@ -5,7 +5,11 @@ template = "post-page.html"
 
 Here's a few ways to reach me online.
 
-* Discord: reykitty
-* Telegram: @ReyKitty
-* Fediverse/Mastodon: <a href="https://toot.cat/@rey">@rey@toot.cat</a>
-* E-mail: web@reykitty.me
+* **Discord**: `reykitty`
+	— quickest way to find me usually
+* **Telegram**: [`@ReyKitty`](https://t.me/ReyKitty)
+	— only installed on my phone
+* **Fediverse/Mastodon**: [`@rey@toot.cat`](https://toot.cat/@rey)
+	— not currently active, but I'm logged in and get notified of messages
+* **E-mail**: `web` at `reykitty.me`
+	— the old standby; I usually check it a couple times a week at least
