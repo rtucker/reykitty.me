@@ -13,7 +13,7 @@ Here's a few ways to reach me online, loosely sorted from "most likely to find m
 	— nice and secure
 * **Fediverse/Mastodon**: [`@rey@toot.cat`](https://toot.cat/@rey)
 	— on break, but I'm logged in and get notified of messages
-* **Bluesky**: [`@reykitty.bsky.social`](https://bsky.app/profile/reykitty.bsky.social)
+* **Bluesky**: [`@reykitty.me`](https://bsky.app/profile/reykitty.me)
 	— new!!
 * **E-mail**: `web` at `reykitty.me`
 	— the old standby; I usually check a couple times a week at least
