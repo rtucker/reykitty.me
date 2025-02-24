@@ -7,14 +7,14 @@ Here's a few ways to reach me online, loosely sorted from "most likely to find m
 
 * **Discord**: `reykitty`
 	— quickest way to find me usually
+* **Signal**: `reykitty.42`
+	— nice and secure, also available on all my devices
 * **Telegram**: [`@ReyKitty`](https://t.me/ReyKitty)
 	— only installed on my phone
-* **Signal**: `reykitty.42`
-	— nice and secure
 * **Fediverse/Mastodon**: [`@rey@toot.cat`](https://toot.cat/@rey)
-	— on break, but I'm logged in and get notified of messages
+	— where I do my hopescrolling
 * **Bluesky**: [`@reykitty.me`](https://bsky.app/profile/reykitty.me)
-	— new!!
+	— where I do my doomscrolling
 * **E-mail**: `web` at `reykitty.me`
 	— the old standby; I usually check a couple times a week at least
 
