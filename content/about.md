@@ -16,8 +16,8 @@ template = "post-page.html"
     * **polyamorous**
 * I'm in my **mid-40s**
 * I've got the AAAA: **autism**, **ADHD**, **anxiety**, and [**agoraphobia**](https://en.wikipedia.org/wiki/Agoraphobia)
-* I also have **depression** and **fibromyalgia**
-* I'm a **hacker** and an **electrical engineer**
+* I also have **depression** and **fibromyalgia**, but those don't start with "A"
+* I'm a **hacker** and an **electrical engineer** and a **radio nerd**
 * I also know how to program and do IT stuff
 
 ### And more about me

@@ -5,10 +5,10 @@ template = "post-page.html"
 
 Here's a few ways to reach me online, loosely sorted from "most likely to find me promptly" to "least likely to find me promptly":
 
-* **Discord**: `reykitty`
-	— quickest way to find me usually
 * **Signal**: `reykitty.42`
 	— nice and secure, also available on all my devices
+* **Discord**: `reykitty`
+	— most common way to find me usually
 * **Telegram**: [`@ReyKitty`](https://t.me/ReyKitty)
 	— only installed on my phone
 * **Fediverse/Mastodon**: [`@rey@toot.cat`](https://toot.cat/@rey)
