@@ -1,17 +1,23 @@
 +++
 title = "What is Rey up to?"
 template = "post-page.html"
-date = "2025-02-24"
+date = "2025-08-02"
 +++
 
 **This is my [now page](https://nownownow.com/about)**, containing information about what I'm doing right now!
 
 ---
 
-**Surgery!** Last Friday, I had a gender-affirming [orchiectomy](https://en.wikipedia.org/wiki/Orchiectomy). As I'm writing this (Monday afternoon), I'm doing pretty okay. I'm on various medical restrictions until at least March 10th, when I have a followup appointment. Ibuprofen, ice packs, and rest are handling things nicely.
+**Greetings from HTML Day 2025 Boston!** It's been about 6 months since I've updated this web site, so I figure now is a good time. It's a gorgeous day here, 23 degrees C and sunny with a pleasant breeze. There's probably at least 20 of us nerds here? Good times.
 
-**I'm working on seeing my friends** and misc other people again. Agoraphobia and anxiety and other mental and physical health issues have left me fairly isolated over the past few years, and I've really been feeling it lately. So, local friends, come on through! Let's eat burritos and cuddle.
+**My eBike era** has begun! Earlier this year, a couple of friends loaned me one of their extra eBikes, a purple 2016-ish Townie. I love her. I can haul groceries and stuff, go places, and generally enjoy the bike network that Somerville is building. Being able to move around at ~15 mph instead of having to walk everywhere is great. She's beautiful and has a personality and *moods* and about ~50 km range on a single charge.
 
-**I am working to reduce the amount of cannabis I consume**. It's been a bit of a problem for awhile now, and I've been unable to meaningfully reduce on my own. So, I now have an addiction specialist helping me with this. The hard part is figuring out what to do *instead* of weed. (UPDATE: Made it 111 hours without cannabis, between January 17-21. The insomnia sucks.) (UPDATE 2: I'm at 4 weeks without cannabis as of February 24! I was expecting to have to break the break to manage orchi pain, but nope.)
+**I broke my right thumb back in early June.** Long story short, I mis-managed a turn on the Somerville Community Path (yeah, the School Street crossing) and crashed into a chain link fence. I thought I was fine, but, well, my thumb started hurting and it didn't stop hurting and the x-ray showed a distal phalanx fracture. Six weeks in a splint. Showering without getting your dominant hand wet is challenging, but I succeeded.
 
-**Mostly QRT on ham radio right now**. The equipment is still set up and ready to go at any time, I just haven't been in the mood for it. I'm still available for HF FT8 skeds with cool people though. I think my next ham radio project is going to involve slow-scan television.
+**Hello again, Vyvanse!** After shifting around a bunch of medications and getting my mental health under better control, I've been started on Vyvanse again (for the first time since 2019). We're still honing in the dose I need (the FOCUS/ANXIETY knob) but already it's nice to be able to... uh... do things. With my brain. Again.
+
+**Resocializing continues** this summer. I've making it out of the house most of the nice days, and seeing friends at least once a week. This has been a major improvement to my mental and physical health. Also got a lot more `REDACTED` goin' on too. I've also been attending *events* such as [Nuzzle](https://nuzzle.boston/) and [Lovebite](https://lovebite.party/), which is helping a lot with meeting new people and overcoming agoraphobia.
+
+**Cannabis overuse is improving** such that I'm pretty much only using it before bedtime or if I wake up in the middle of the night. I'm happy with this, and also going months between trips to the weed store.
+
+**Ham radio activity** has been sporadic, but is still happening occasionally. Mostly transmitting trans pride flags on 14.230 MHz SSTV in response to fashy stuff. Still available for FT8 and other misc skeds. (Anyone wanna do some Feld Hell?)
