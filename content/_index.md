@@ -3,7 +3,7 @@
 
 <center><b><big>Welcome to Rey's web site!</big></b><br>Have a look around.</center>
 
-[![an under construction gif](/images/underconstruction.gif "this site is UNDER CONSTRUCTION")](http://textfiles.com/underconstruction/)
+[![an under construction gif](/images/underconstruction.gif "this site is eternally UNDER CONSTRUCTION")](http://textfiles.com/underconstruction/)
 
 Quick facts:
 
