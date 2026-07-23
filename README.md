@@ -1,3 +1,3 @@
-This is the readme file for my personal web site's git repository.
+THIS REPOSITORY HAS BEEN ARCHIVED
 
-Learn more about me at: https://reykitty.me/
+See its new home: https://codeberg.org/rtucker/reykitty.me
